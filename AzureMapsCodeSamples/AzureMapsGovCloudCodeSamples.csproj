@@ -411,6 +411,7 @@
     <Content Include="Drawing Tools Module\Snap grid options.html" />
     <Content Include="Drawing Tools Module\Use a snapping grid.html" />
     <Content Include="Geospatial Files\Visualize Excel data.html" />
+    <Content Include="Services Module\Draggable route lines.html" />
     <Content Include="Services Module\Get nearest POIs to a set of addresses.html" />
     <Content Include="SiteResources\screenshots\Calculate-nearest-locations.jpg" />
     <Content Include="SiteResources\screenshots\Category-legend-options.jpg" />
@@ -418,6 +419,7 @@
     <Content Include="SiteResources\screenshots\Create-a-legend-control.jpg" />
     <Content Include="SiteResources\screenshots\Create-HTML-legend.jpg" />
     <Content Include="SiteResources\screenshots\Custom-styled-legend.jpg" />
+    <Content Include="SiteResources\screenshots\Draggable-route-lines.gif" />
     <Content Include="SiteResources\screenshots\Dynamic-legend-and-layer-controls.jpg" />
     <Content Include="SiteResources\screenshots\Get nearest POIs to a set of addresses.gif" />
     <Content Include="SiteResources\screenshots\Gradient-legend-options.jpg" />
