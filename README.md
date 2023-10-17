@@ -12,8 +12,6 @@ products:
 
 A collection of over a hundred code samples for the [Azure Maps](https://azure.com/maps) Web SDK for use in the Azure Gov Cloud.
 
-[Try it now](https://azuremapscodesamples.azurewebsites.us/)
-
 [![screenshot](Images/screenshot.png)](https://azuremapscodesamples.azurewebsites.us/)
 
 Code samples for the commercial version of Azure can be found [here](https://github.com/Azure-Samples/AzureMapsCodeSamples)
