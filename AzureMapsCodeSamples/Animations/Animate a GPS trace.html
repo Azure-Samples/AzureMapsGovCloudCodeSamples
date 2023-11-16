@@ -26,7 +26,10 @@
             {
                 displayName: 'GPS Trace (GeoJSON)',                
                 url: '../Common/data/geojson/GpsTrace.json',
-                timestampProperty: 'time'
+                timestampProperty: 'time',
+	    	
+	    	//Perform a linear interpolation on the `ele` property.
+                valueInterpolations: [{ propertyPath: 'latitude' }]
             },             
             {
                 displayName: 'Hurricane Barry track (csv)',                
